@@ -26,6 +26,7 @@ public class User {
     private String first_name;
     private String last_name;
     private String email;
+    private String mobileNo;
     private String gender;
     private boolean married_status;
     private Address address;
